@@ -6,6 +6,17 @@ These IPython notebooks were created for educational/self-educational purposes.
 Please, feel free to use/copy/modify/distribute these notebooks. I only ask
 that you credit me with authorship.
 
+## HTML
+
+HTML files are provided for notebooks as some notebooks fail to render properly on GitHub.
+To view these files, I recommend you:
+
+    1. open http://htmlpreview.github.com/ 
+    2. Right-click the HTML file and select "Copy Link Location"
+    3. Paste this link into the search bar on http://htmlpreview.github.com/ 
+
+Alternatively, you may download the HTML file and view it locally.
+
 ## Use
 
 Most notebooks may be downloaded and viewed in their static HTML form for those unfamiliar with 
